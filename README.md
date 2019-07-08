@@ -2,7 +2,7 @@
 This file was created on: Monday, July 7, 2019
 
 ### Project Title
-Replace the Project Title
+Libby's Amazing Git Project!
 
 ### Description
 This project will show that I understand Git, GitHub and versioning control, HOORAY!
